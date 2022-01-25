@@ -1,0 +1,10 @@
+ya 74700
+min 29300
+none1 0
+none2 0
+none3 0
+none4 0
+none5 0
+none6 0
+none7 0
+none8 0
